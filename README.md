@@ -1,4 +1,4 @@
-# JS_start
+# JSP_start
 # global, local(variable)
 ```javascript
 	<b> 전역변수와 지역변수의 선언 및 이용하기</b><br>
